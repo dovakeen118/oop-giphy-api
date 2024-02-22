@@ -1,0 +1,21 @@
+{
+  "name": "oop-giphy-api",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": "^16.18"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "got": "^11.8.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
