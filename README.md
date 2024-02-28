@@ -1,6 +1,6 @@
 # Giphy Coding Challenge
 
-This application uses the `got` library to request GIFs from the Giphy API. Information is calculated about the GIFs retrieved and output to the terminal.
+This application uses the `got` library to request GIFs from the Giphy API. Using Object Oriented Programming, information is calculated about the GIFs retrieved and output to the terminal.
 
 ## Installation
 
